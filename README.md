@@ -12,4 +12,4 @@ TODO: add background animation, fix formatting
 
 With CSS Stars: 
 
-![]("https://github.com/lyokoth/personal-portfolio/blob/main/personal-portfolio/projects/css-stars.gif")
+![](https://github.com/lyokoth/personal-portfolio/blob/main/personal-portfolio/projects/css-stars.gif)
