@@ -7,7 +7,7 @@ my personal portfolio
 Personal portfolio created in HTML, JavaScript, CSS, and React. Showcases projects, about me, and achievements. 
 
 
-TODO: add background animation, fix formatting
+TODO: add background animation, fix formatting, link netlify apps
 
 
 With CSS Stars: 
